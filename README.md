@@ -6,10 +6,10 @@ acumulada en base a determinados filtros, como lo son su visualización respecto
 mostrarlos mediante un gráfico y permitir la descarga de los datos almacenados.
 
 Construido con 🛠️
-IntelliJ IDEA (versión 2019.1.2)
+IntelliJ IDEA (versión 2019.1.2),
 Spring Boot 
 
 Autores ✒️
-Gilio Linfati 
-Jonathan Lizama
+Gilio Linfati, 
+Jonathan Lizama,
 Rodrigo Pardo
